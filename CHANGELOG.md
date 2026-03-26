@@ -34,9 +34,6 @@ All notable changes to the GenieArchi ecosystem.
 - WebView APK built via GitHub Actions
 - 12 epics created tracking 67 issues across 7 repos
 
-### All repos
-- Apache 2.0 license added
-
 ### What is next
 - promptlint HTTP API (POST /analyze)
 - costlint tiktoken-accurate token counting
